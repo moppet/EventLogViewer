@@ -1,0 +1,11 @@
+C:\Users\Rob\documents\visual studio 2010\Projects\Eventlog Viewer\Eventlog Viewer\bin\Debug\Eventlog Viewer.exe
+C:\Users\Rob\documents\visual studio 2010\Projects\Eventlog Viewer\Eventlog Viewer\bin\Debug\Eventlog Viewer.pdb
+C:\Users\Rob\documents\visual studio 2010\Projects\Eventlog Viewer\Eventlog Viewer\obj\x86\Debug\MainWindow.baml
+C:\Users\Rob\documents\visual studio 2010\Projects\Eventlog Viewer\Eventlog Viewer\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Rob\documents\visual studio 2010\Projects\Eventlog Viewer\Eventlog Viewer\obj\x86\Debug\App.g.cs
+C:\Users\Rob\documents\visual studio 2010\Projects\Eventlog Viewer\Eventlog Viewer\obj\x86\Debug\Eventlog Viewer_MarkupCompile.cache
+C:\Users\Rob\documents\visual studio 2010\Projects\Eventlog Viewer\Eventlog Viewer\obj\x86\Debug\Eventlog Viewer.g.resources
+C:\Users\Rob\documents\visual studio 2010\Projects\Eventlog Viewer\Eventlog Viewer\obj\x86\Debug\EventlogViewer.Properties.Resources.resources
+C:\Users\Rob\documents\visual studio 2010\Projects\Eventlog Viewer\Eventlog Viewer\obj\x86\Debug\Eventlog Viewer.csproj.GenerateResource.Cache
+C:\Users\Rob\documents\visual studio 2010\Projects\Eventlog Viewer\Eventlog Viewer\obj\x86\Debug\Eventlog Viewer.exe
+C:\Users\Rob\documents\visual studio 2010\Projects\Eventlog Viewer\Eventlog Viewer\obj\x86\Debug\Eventlog Viewer.pdb
