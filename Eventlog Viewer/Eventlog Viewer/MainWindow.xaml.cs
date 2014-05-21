@@ -22,14 +22,21 @@ namespace EventlogViewer
         public MainWindow()
         {
             InitializeComponent();
-
+            datePicker_from.SelectedDate = DateTime.Today;
+            datePicker_to.SelectedDate = DateTime.Today;
 
         }
 
-        private void InitializeComponent()
+        private void button_start_Click(object sender, RoutedEventArgs e)
         {
-            throw new NotImplementedException();
+            textBox_output.AppendText("Start Pressed\n");
         }
+
+        private void button_cancel_Click(object sender, RoutedEventArgs e)
+        {
+            textBox_output.Clear();
+        }
+
 
 
     }

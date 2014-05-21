@@ -9,3 +9,15 @@ C:\Users\Rob\documents\visual studio 2010\Projects\Eventlog Viewer\Eventlog View
 C:\Users\Rob\documents\visual studio 2010\Projects\Eventlog Viewer\Eventlog Viewer\obj\x86\Debug\Eventlog Viewer.csproj.GenerateResource.Cache
 C:\Users\Rob\documents\visual studio 2010\Projects\Eventlog Viewer\Eventlog Viewer\obj\x86\Debug\Eventlog Viewer.exe
 C:\Users\Rob\documents\visual studio 2010\Projects\Eventlog Viewer\Eventlog Viewer\obj\x86\Debug\Eventlog Viewer.pdb
+C:\GIT_REPOS\Eventlog Viewer\Eventlog Viewer\obj\x86\Debug\Eventlog Viewer.exe
+C:\GIT_REPOS\Eventlog Viewer\Eventlog Viewer\obj\x86\Debug\Eventlog Viewer.pdb
+C:\GIT_REPOS\Eventlog Viewer\Eventlog Viewer\obj\x86\Debug\Eventlog Viewer.csprojResolveAssemblyReference.cache
+C:\GIT_REPOS\Eventlog Viewer\Eventlog Viewer\obj\x86\Debug\MainWindow.baml
+C:\GIT_REPOS\Eventlog Viewer\Eventlog Viewer\obj\x86\Debug\MainWindow.g.cs
+C:\GIT_REPOS\Eventlog Viewer\Eventlog Viewer\obj\x86\Debug\App.g.cs
+C:\GIT_REPOS\Eventlog Viewer\Eventlog Viewer\obj\x86\Debug\Eventlog Viewer_MarkupCompile.cache
+C:\GIT_REPOS\Eventlog Viewer\Eventlog Viewer\obj\x86\Debug\Eventlog Viewer.g.resources
+C:\GIT_REPOS\Eventlog Viewer\Eventlog Viewer\obj\x86\Debug\EventlogViewer.Properties.Resources.resources
+C:\GIT_REPOS\Eventlog Viewer\Eventlog Viewer\obj\x86\Debug\Eventlog Viewer.csproj.GenerateResource.Cache
+C:\GIT_REPOS\Eventlog Viewer\Eventlog Viewer\bin\Debug\Eventlog Viewer.exe
+C:\GIT_REPOS\Eventlog Viewer\Eventlog Viewer\bin\Debug\Eventlog Viewer.pdb
